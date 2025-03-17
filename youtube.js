@@ -1,3 +1,4 @@
+alert ('Hello My Self Sartaj Ali I am a You Tuber and I make a lot of course video');
 const menuIcon =document.querySelector('#menu-icon');
 const navbar = document.querySelector('.navbar');
 
